@@ -1,8 +1,6 @@
-![I'm a Full Stack Web Developer](https://res.cloudinary.com/octavian2111/image/upload/v1620859277/Screenshot_2021-05-13_at_00.41.05_pxxj6i.png)
-
-
+![I'm a Full Stack Web Developer](https://res.cloudinary.com/octavian2111/image/upload/v1623703159/Screenshot_2021-06-14_at_22.39.07_jrrprx.png)
 ### Hi there 👋, I'm **Anna**
-#### I'm a Full Stack Web Developer
+#### I'm a Full Stack Web Developer.
 
 
 Right now, I'm coding in **Javascript** && **React** && **React Native**.
