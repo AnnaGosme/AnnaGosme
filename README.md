@@ -3,15 +3,10 @@
 #### I'm a Full Stack Web Developer.
 
 
-Right now, I'm coding in **Javascript** && **React** && **React Native**.
+Skills:   JS / HTML / CSS / REACT
 
-I enjoy brainstorming **creative** app ideas, coming up with **innovative layouts** and getting my hands dirty with the **code**.
-I believe in **UX** first backed up by **strong UI**.
-
-Skills:   JS / HTML / CSS / REACT / REACT NATIVE / SERN 
-
-- 🪕 I’m currently working on designing an app for a musician 🤘
-- 🌱 I’m currently learning React Native 
+- 🪕 I’m currently an intern at Deezer 🤘
+- 🌱 I’m currently learning PHP 
 - 😄 Pronouns: (She/Her) 
 - ⚡ Fun fact: I'm a certified sommelier 🍷 
 
