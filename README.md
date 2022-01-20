@@ -5,8 +5,7 @@
 
 Skills:   JS / HTML / CSS / REACT
 
-- 🪕 I’m currently an intern at Deezer 🤘
-- 🌱 I’m currently learning PHP 
+- 🪕 I’m currently an intern at Deezer 🤘 
 - 😄 Pronouns: (She/Her) 
 - ⚡ Fun fact: I'm a certified sommelier 🍷 
 
